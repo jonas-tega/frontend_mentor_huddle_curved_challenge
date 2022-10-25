@@ -1,0 +1,94 @@
+.head{
+    margin: 50px 30px 120px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.head .try_free{
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+
+    border: 2px solid hsl(321, 100%, 78%);
+    border-radius: 50px;
+    padding: 5px;
+    color: hsl(321, 100%, 78%);
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.main_text{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+}
+
+.main_text .main_title{
+    font-size: xx-large;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main_text .frist_text{
+    font-size: large;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.get_started_button{
+    margin: 50px auto 80px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+
+    background-color: hsl(322, 100%, 66%);
+    border: 2px solid hsl(322, 100%, 66%);
+    border-radius: 50px;
+    padding: 25px;
+    color: hsl(207, 100%, 98%);
+}
+
+.numbers{
+    display: flex;
+    justify-content: center;
+}
+
+.numbers .number{
+    font-size: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.numbers .number_sutitle{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color: hsl(192, 100%, 9%);
+}
+
+.topic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topic .subtitle{
+    font-size: x-large;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.topic .text{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.question{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.question .subtitle{
+    font-size: large;
+    font-family: 'Poppins', sans-serif;
+}
+
